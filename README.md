@@ -3,4 +3,6 @@ first repo
 
 some projects in the near future
 
-some text here
+some text here 
+
+and here
